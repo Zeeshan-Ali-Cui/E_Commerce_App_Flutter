@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:shopping/Views/Errand.dart';
-import 'package:shopping/Views/Login.dart';
-import 'package:shopping/Views/PasswordDone.dart';
-import 'package:shopping/Views/Signupscreen.dart';
 import 'package:shopping/Views/home.dart';
 import 'package:shopping/Views/profileview.dart';
 import 'package:shopping/Views/searchscreen.dart';
+
 class btmbar extends StatefulWidget {
   const btmbar({Key? key}) : super(key: key);
 
